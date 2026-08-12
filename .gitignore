@@ -7,6 +7,9 @@ build/
 *.bin
 *.hex
 
+# Auto-generated files
+*.cpp
+
 # IDE and editor files
 .vscode/
 .DS_Store
