@@ -1,0 +1,24 @@
+# Build artifacts
+target/
+build/
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+
+# IDE and editor files
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Dependency and package files
+node_modules/
+.particle/
+
+# OS files
+Thumbs.db
+.DS_Store
+nul
